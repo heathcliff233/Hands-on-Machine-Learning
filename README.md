@@ -35,6 +35,7 @@
 - 使用TensorFlow库构建和训练神经网络，深入神经网络架构，包括卷积神经网络、循环神经网络和深度强化学习
 - 知识体系非常系统， 如果你能够从绪论部分一直看到附录部分并做完这上面的示例代码，你的理论基础一定会扎实的不要不要的
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heathcliff233/Hands-on-Machine-Learning/master)
 
 
 ### 感谢
